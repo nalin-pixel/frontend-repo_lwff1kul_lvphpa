@@ -1,0 +1,31 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 229 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.40.93:3000/
+3:12:01 AM [vite] warning: The character ">" is not valid inside a JSX element
+9  |          <div className="text-center mb-10">
+10 |            <h2 className="text-3xl sm:text-4xl font-extrabold text-white">Why This Matters</h2>
+11 |            <p className="mt-3 text-slate-300/90">Reality > vibes</p>
+   |                                                          ^
+12 |          </div>
+13 |          <div className="grid lg:grid-cols-2 gap-8">
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/WhyMatters.jsx
+3:12:01 AM [vite] ✨ new dependencies optimized: lucide-react, @splinetool/react-spline
+3:12:01 AM [vite] ✨ optimized dependencies changed. reloading
+3:12:02 AM [vite] warning: The character ">" is not valid inside a JSX element
+9  |          <div className="text-center mb-10">
+10 |            <h2 className="text-3xl sm:text-4xl font-extrabold text-white">Why This Matters</h2>
+11 |            <p className="mt-3 text-slate-300/90">Reality > vibes</p>
+   |                                                          ^
+12 |          </div>
+13 |          <div className="grid lg:grid-cols-2 gap-8">
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/WhyMatters.jsx
